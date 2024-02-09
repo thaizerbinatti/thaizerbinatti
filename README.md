@@ -7,7 +7,7 @@
 📚 Atualmente, estou aprimorando meus estudos em JavaScript e estudando Back-End na Imersão Start Tech da Totvs. Com aplicações em Java, MySQL, Dados e API Rest, buscando aperfeiçoar ainda mais minhas competências e, ao mesmo tempo, buscando oportunidades de colaboração e conexões profissionais.
 
 ### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/Linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/thain%C3%A1-zerbinatti-ramos-0a686b1b3/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/thaina-zerbinatti)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/thaizerbinatti)
 [![E-mail](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail)](mailto:thatazerb@gmail.com)
 
