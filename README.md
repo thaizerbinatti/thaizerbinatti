@@ -1,8 +1,10 @@
 ## 👩 Thainá Zerbinatti
 
-📎 Olá! Sou a Thainá Zerbinatti, em transição de carreira da área de auxiliar veterinário para a programação. <br>
-🚀 Recentemente, concluí um curso de Desenvolvimento Web Front-End e me apaixonei pela programação. Desenvolvi habilidades em HTML, CSS, JavaScript, BootStrap, Git e GitHub. <br>
-📚 Atualmente, estudo React e Node.js, buscando aperfeiçoar ainda mais minhas habilidades. Estou em busca de oportunidades de colaboração e conexões profissionais. Animada para crescer nesse campo e contribuir com meu trabalho.
+📎 Em transição de carreira e estudante de Análise e Desenvolvimento de Sistemas.
+
+🚀 No meu último curso de Desenvolvimento Web Front-End adquiri habilidades em HTML, CSS, JavaScript, Git e GitHub.
+
+📚 Atualmente, estou aprimorando meus estudos em JavaScript e estudando Back-End na Imersão Start Tech da Totvs. Com aplicações em Java, MySQL, Dados e API Rest, buscando aperfeiçoar ainda mais minhas competências e, ao mesmo tempo, buscando oportunidades de colaboração e conexões profissionais.
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/thain%C3%A1-zerbinatti-ramos-0a686b1b3/)
@@ -10,8 +12,6 @@
 [![E-mail](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail)](mailto:thatazerb@gmail.com)
 
 ### Habilidades:
-![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs)
 ![HTML](https://img.shields.io/badge/HTML-161b22?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-161b22?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161b22.svg?style=for-the-badge&logo=javascript)
